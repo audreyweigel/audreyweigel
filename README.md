@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gabywishes3
+- 👀 I’m interested in marketing analytics.
+- 🌱 I’m currently learning C++ and Java.
+- 💞️ I’m looking to collaborate on creating projects related to marketing analysis, music programming, and stock market analysis.
