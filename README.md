@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @audreyweigel
-- 👀 I’m interested in marketing analytics.
-- 🌱 I’m currently learning C++ and Java.
-- 💞️ I’m looking to collaborate on creating projects related to marketing analysis, music programming, and stock market analysis.
+I'm studying Computer Science and working as Lead Teaching Assistant for Girls Who Code's Summer Immersion Program. 
